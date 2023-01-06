@@ -1,0 +1,11 @@
+.Class{
+    color: rgb(58, 212, 166);
+    text-align: right;
+}
+ol{
+    color: forestgreen;
+    font-family: cursive;
+    font-variant: var(forestgreen);
+    animation-duration: calc(0.6s);
+    text-align:right;
+}
